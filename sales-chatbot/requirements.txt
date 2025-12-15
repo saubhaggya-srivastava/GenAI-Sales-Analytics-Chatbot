@@ -1,0 +1,11 @@
+# Core dependencies
+streamlit==1.29.0
+google-generativeai==0.3.2
+pandas==2.1.4
+plotly==5.18.0
+pyxlsb==1.0.10
+python-dotenv==1.0.0
+
+# Optional: for testing (not required for MVP)
+# hypothesis==6.92.1
+# pytest==7.4.3
