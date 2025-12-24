@@ -1,1 +1,1 @@
-# Growz_Assignment
+# GenAI Sales Analytics Chatbot
