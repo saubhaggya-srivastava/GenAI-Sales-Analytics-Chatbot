@@ -115,12 +115,6 @@ pip install -r requirements.txt
 - Ensure Excel file is in `data/` folder
 - Check file name matches exactly
 
-
-
-## � Lice,nse
-
-This is a take-home assessment project for Growz AI Engineer position.
-
 ---
 
 **Author:** Saubhaggya Srivastava 
